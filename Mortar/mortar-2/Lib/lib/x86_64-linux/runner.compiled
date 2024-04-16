@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <Compiler Value="/usr/bin/fpc" Date="1704440408"/>
+  <Params Value=" -MObjFPC -Scghi -Cg -O1 -g -gl -l -vewnhibq &quot;-Fu/home/kali/Desktop/Hacking tools /AV_evasion/Mortar/mortar-2/Lib/&quot; &quot;-FU/home/kali/Desktop/Hacking tools /AV_evasion/Mortar/mortar-2/Lib/lib/x86_64-linux/&quot; &quot;-FE/home/kali/Desktop/Hacking tools /AV_evasion/Mortar/mortar-2/Lib/&quot; &quot;-o/home/kali/Desktop/Hacking tools /AV_evasion/Mortar/mortar-2/Lib/runner&quot; runner.pas"/>
+  <Complete Value="False"/>
+</CONFIG>
