@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<CONFIG>
-  <Compiler Value="/usr/bin/fpc" Date="1704440408"/>
-  <Params Value=" -MObjFPC -Scghi -Cg -O1 -g -gl -l -vewnhibq &quot;-Fi/home/kali/Desktop/Hacking tools /AV_evasion/Mortar/mortar-2/DLL/lib/x86_64-linux&quot; &quot;-Fu/home/kali/Desktop/Hacking tools /AV_evasion/Mortar/mortar-2/Lib&quot; &quot;-Fu/home/kali/Desktop/Hacking tools /AV_evasion/Mortar/mortar-2/DLL/&quot; &quot;-FU/home/kali/Desktop/Hacking tools /AV_evasion/Mortar/mortar-2/DLL/lib/x86_64-linux/&quot; &quot;-FE/home/kali/Desktop/Hacking tools /AV_evasion/Mortar/mortar-2/DLL/&quot; &quot;-o/home/kali/Desktop/Hacking tools /AV_evasion/Mortar/mortar-2/DLL/libagressor.so&quot; agressor.lpr"/>
-  <Complete Value="False"/>
-</CONFIG>
