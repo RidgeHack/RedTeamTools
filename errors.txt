@@ -1,0 +1,43 @@
+At C:\Users\WorkVM\Desktop\DLL_Hijack_Detection_Final_20250611_155821.ps1:2222 char:2
++ }}
++  ~
+Unexpected token '}' in expression or statement.
+At C:\Users\WorkVM\Desktop\DLL_Hijack_Detection_Final_20250611_155821.ps1:2246 char:17
++             "." {{ return (Get-Location).Path }}
++                 ~
+Unexpected token '{' in expression or statement.
+At C:\Users\WorkVM\Desktop\DLL_Hijack_Detection_Final_20250611_155821.ps1:2247 char:33
++             "Current Directory" {{ return (Get-Location).Path }}
++                                 ~
+Unexpected token '{' in expression or statement.
+At C:\Users\WorkVM\Desktop\DLL_Hijack_Detection_Final_20250611_155821.ps1:2256 char:10
++         }}
++          ~
+Missing statement block in switch statement clause.
+At C:\Users\WorkVM\Desktop\DLL_Hijack_Detection_Final_20250611_155821.ps1:2318 char:22
++         {{$_ -ge 8}} {{ "HIGH" }}
++                      ~
+Unexpected token '{' in expression or statement.
+At C:\Users\WorkVM\Desktop\DLL_Hijack_Detection_Final_20250611_155821.ps1:2319 char:22
++         {{$_ -ge 4}} {{ "MEDIUM" }}
++                      ~
+Unexpected token '{' in expression or statement.
+At C:\Users\WorkVM\Desktop\DLL_Hijack_Detection_Final_20250611_155821.ps1:2321 char:6
++     }}
++      ~
+Missing statement block in switch statement clause.
+At C:\Users\WorkVM\Desktop\DLL_Hijack_Detection_Final_20250611_155821.ps1:2327 char:6
++     }}
++      ~
+Missing '=' operator after key in hash literal.
+At C:\Users\WorkVM\Desktop\DLL_Hijack_Detection_Final_20250611_155821.ps1:2335 char:25
++     $checkedPaths = @{{}}
++                         ~
+Missing '=' operator after key in hash literal.
+At C:\Users\WorkVM\Desktop\DLL_Hijack_Detection_Final_20250611_155821.ps1:2339 char:12
++     foreach ($pathKey in $VulnerabilityDatabase.Keys) {{
++            ~
+Missing '=' operator after key in hash literal.
+Not all parse errors were reported.  Correct the reported errors and try again.
+    + CategoryInfo          : ParserError: (:) [], ParseException
+    + FullyQualifiedErrorId : UnexpectedToken
